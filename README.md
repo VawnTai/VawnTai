@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @VawnTai
-- 👀 I’m interested in sleepong
+- 👀 I’m interested in automation
 - 🌱 I’m currently learning just code nothing more
-- 💞️ I’m looking to collaborate on i don't know
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me taiehehehe@gmail.com or telegram @tai282
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm VietNamese
 
 <!---
 VawnTai/VawnTai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
